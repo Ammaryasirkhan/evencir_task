@@ -1,18 +1,21 @@
 # EvenCir Flutter Interview Task
 
 A polished Flutter wellness app with four main modules:
+
 - Nutrition
 - Plan
 - Mood
 - Profile
 
 ## 1. Dependencies Used & Why
+
 - `flutter`: Core SDK for building the app.
 - `go_router`: Used for structured navigation with `StatefulShellRoute.indexedStack` and bottom-tab routing.
 - `flutter_screenutil`: Used for responsive sizing/scaling across different screen sizes.
 - `cupertino_icons`: Provides Cupertino-style icon support where needed.
 
 ## 2. Project Structure
+
 ```text
 lib/
  ├── common/
@@ -32,6 +35,7 @@ lib/
 ```
 
 ## 3. App Screenshots
+
 - [All Screenshots Folder](./screenshots)
 - [Screenshot 1](./screenshots/simulator_screenshot_27A97653-6214-4B99-B961-E86DE37BD98C.png)
 - [Screenshot 2](./screenshots/simulator_screenshot_45B54C66-5B45-4D66-81C6-6D20695345C6.png)
@@ -43,17 +47,20 @@ lib/
 - [Screenshot 8](./screenshots/simulator_screenshot_ED8239EC-A274-44CE-8822-3311A9E3EB40.png)
 
 ## 4. App Video
+
 - [Watch App Demo Video](./demo/Screen%20Recording%202026-05-12%20at%208.55.07%E2%80%AFPM.mov)
 
 ## 5. App APK
+
 - Release APK will be attached in GitHub Releases.
 - Replace the link below after uploading APK to a release:
 
-[Download APK](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/app-release.apk)
+[Download APK](https://github.com/Ammaryasirkhan/evencir_task/releases/download/Test/app-release.apk)
 
 ---
 
 ## How To Run
+
 ```bash
 flutter pub get
 flutter run
