@@ -52,9 +52,6 @@ lib/
 
 ## 5. App APK
 
-- Release APK will be attached in GitHub Releases.
-- Replace the link below after uploading APK to a release:
-
 [Download APK](https://github.com/Ammaryasirkhan/evencir_task/releases/download/Test/app-release.apk)
 
 ---
